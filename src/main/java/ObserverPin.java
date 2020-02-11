@@ -1,6 +1,8 @@
 import java.util.ArrayList;
 import java.util.List;
 
+//https://www.codewars.com/kata/5263c6999e0f40dee200059d/train/java
+
 public class ObserverPin {
     final String[] one = {"1","2","4"};
     final String[] two = {"1","2","3","5"};

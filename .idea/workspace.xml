@@ -40,6 +40,7 @@
   </component>
   <component name="PropertiesComponent">
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
   </component>
   <component name="ServiceViewManager">
     <option name="viewStates">
@@ -65,5 +66,15 @@
       <updated>1581439236174</updated>
     </task>
     <servers />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="614" y="116" key="CommitChangelistDialog2" timestamp="1581449078885">
+      <screen x="0" y="0" width="1920" height="1050" />
+    </state>
+    <state x="614" y="116" key="CommitChangelistDialog2/0.0.1920.1050/1920.0.1280.994@0.0.1920.1050" timestamp="1581449078885" />
+    <state x="552" y="258" key="Vcs.Push.Dialog.v2" timestamp="1581449083531">
+      <screen x="0" y="0" width="1920" height="1050" />
+    </state>
+    <state x="552" y="258" key="Vcs.Push.Dialog.v2/0.0.1920.1050/1920.0.1280.994@0.0.1920.1050" timestamp="1581449083531" />
   </component>
 </project>
