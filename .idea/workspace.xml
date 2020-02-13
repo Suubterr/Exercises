@@ -2,12 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="c4e8b6ad-68e1-4d12-9ae7-1f6e66da7f5b" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/compiler.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Exercises.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/ObserverPin.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/Main.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -65,16 +61,40 @@
       <option name="presentableId" value="Default" />
       <updated>1581439236174</updated>
     </task>
+    <task id="LOCAL-00001" summary="init commit">
+      <created>1581449079717</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1581449079717</updated>
+    </task>
+    <task id="LOCAL-00002" summary="2">
+      <created>1581449151824</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1581449151824</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="init commit" />
+    <MESSAGE value="2" />
+    <option name="LAST_COMMIT_MESSAGE" value="2" />
+  </component>
   <component name="WindowStateProjectService">
-    <state x="614" y="116" key="CommitChangelistDialog2" timestamp="1581449078885">
+    <state x="614" y="116" key="CommitChangelistDialog2" timestamp="1581449151052">
       <screen x="0" y="0" width="1920" height="1050" />
     </state>
-    <state x="614" y="116" key="CommitChangelistDialog2/0.0.1920.1050/1920.0.1280.994@0.0.1920.1050" timestamp="1581449078885" />
-    <state x="552" y="258" key="Vcs.Push.Dialog.v2" timestamp="1581449083531">
+    <state x="614" y="116" key="CommitChangelistDialog2/0.0.1920.1050/1920.0.1280.994@0.0.1920.1050" timestamp="1581449151052" />
+    <state x="552" y="258" key="Vcs.Push.Dialog.v2" timestamp="1581449163556">
       <screen x="0" y="0" width="1920" height="1050" />
     </state>
-    <state x="552" y="258" key="Vcs.Push.Dialog.v2/0.0.1920.1050/1920.0.1280.994@0.0.1920.1050" timestamp="1581449083531" />
+    <state x="552" y="258" key="Vcs.Push.Dialog.v2/0.0.1920.1050/1920.0.1280.994@0.0.1920.1050" timestamp="1581449163556" />
+    <state x="656" y="349" key="com.intellij.ide.util.TipDialog" timestamp="1581582203968">
+      <screen x="0" y="0" width="1920" height="1050" />
+    </state>
+    <state x="656" y="349" key="com.intellij.ide.util.TipDialog/0.0.1920.1050/1920.0.1280.994@0.0.1920.1050" timestamp="1581582203968" />
   </component>
 </project>
